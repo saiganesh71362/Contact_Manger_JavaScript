@@ -18,7 +18,7 @@ const displaycards = (contacts) => {
   for (let contact of contacts) {
     cardElement += `
     <div class="col-sm-6">
-      <div class="card mt-5">
+      <div class="card mt-4">
         <div class="card-body">
           <div class="row">
             <div class="col-sm-3">
