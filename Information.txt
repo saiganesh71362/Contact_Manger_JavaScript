@@ -1,0 +1,72 @@
+
+                        ------------> Boot Strap Project <------------
+
+
+folder order :---
+          
+          -> index.html
+          -> Login.html
+          ->Register.html
+          ->Addcontact.html
+          -> Viewcontact.html
+          ->update.html
+
+          server: --
+
+          database :--
+
+          service : --
+
+          D:\VTALENT\HTML-PROJECTS\Bootstrap_Project\project\project\cpntact img1.png
+
+
+----------------------------------------------> Serever Create <------------------------------
+
+   ----> goto folder 
+ Step -1: using console , selecting server creating folder
+ ====> PS D:\VTALENT\HTML-PROJECTS\Bootstrap_Project\project\server> npm init --yes
+ Step -2: using this command create one json package
+ ====> Wrote to D:\VTALENT\HTML-PROJECTS\Bootstrap_Project\project\server\package.json
+
+ Step -3 : download json server using command ----> sync 116 package files
+ ===> PS D:\VTALENT\HTML-PROJECTS\Bootstrap_Project\project\server> npm install json-server
+
+  Step -4: database add 
+
+  ====> using thde prdefined database fale drag to existing folder
+
+  Step -5: start the server
+  --> update json.package    use port 
+   ===> "start" : "json-server --watch db.json --port 9000"// replace//"test": "echo \"Error: no test specified\" && exit 1"
+
+  ---> start the json server using command 
+    ===> npm start
+   [  server@1.0.0 start
+> json-server --watch db.json --port 9000
+
+
+  \{^_^}/ hi!
+
+  Loading db.json
+  Done
+
+  Resources
+  http://localhost:9000/contacts
+  http://localhost:9000/groups
+
+  Home
+  http://localhost:9000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...]
+
+
+----------------------  operations (HTTPS) (tesig Api's) using (post man)-----------\
+http://localhost:9000/contacts  ----> all contacts using Get Method
+http://localhost:9000/contacts/pYz3Gfk ---> find specific persion details using object id 
+http://localhost:9000/contacts ----> create contact (raw data ) send using POST Method
+http://localhost:9000/contacts/vW4_kZF ---> UPdate a conatct using PUT
+http://localhost:9000/contacts/vW4_kZF -- > Delete a contact
+
+
+

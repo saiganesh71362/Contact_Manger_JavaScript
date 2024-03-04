@@ -1,0 +1,120 @@
+{
+  "contacts": [
+    {
+      "name": "saiganesh",
+      "imageUrl": "https://icons.iconarchive.com/icons/pelfusion/long-shadow-media/512/Contact-icon.png",
+      "mobile": "8186058001",
+      "email": "saiganesh71362@gmail.com",
+      "company": "Fresher",
+      "title": "Fresher",
+      "groupId": "3",
+      "id": "93dWfs3"
+    },
+    {
+      "name": "Naveenkumar",
+      "imageUrl": "https://w7.pngwing.com/pngs/178/595/png-transparent-user-profile-computer-icons-login-user-avatars-thumbnail.png",
+      "mobile": "7093214907",
+      "email": "naveenkumar@gmail.com",
+      "company": "Digitral",
+      "title": "ios_developer",
+      "groupId": "2",
+      "id": "75viG4Q"
+    },
+    {
+      "name": "Siva",
+      "imageUrl": "https://w7.pngwing.com/pngs/178/595/png-transparent-user-profile-computer-icons-login-user-avatars-thumbnail.png",
+      "mobile": "667462379",
+      "email": "sivaprasd@gmail.com",
+      "company": "Digitral",
+      "title": " Supporting",
+      "groupId": "1",
+      "id": "pYz3Gfk"
+    },
+    {
+      "name": "Hareesh",
+      "imageUrl": "https://w7.pngwing.com/pngs/178/595/png-transparent-user-profile-computer-icons-login-user-avatars-thumbnail.png",
+      "mobile": "37463394637",
+      "email": "hareesh@gmail.com",
+      "company": "Tcs",
+      "title": "Noc_Developer",
+      "groupId": "6",
+      "id": "iBSlrxe"
+    },
+    {
+      "name": "deepthi",
+      "imageUrl": "https://icons.iconarchive.com/icons/pelfusion/long-shadow-media/512/Contact-icon.png",
+      "mobile": "9391118616",
+      "email": "deepthi@gmail.com",
+      "company": "Infosys",
+      "title": "DartNet Developer",
+      "groupId": "3",
+      "id": "8RofeQv"
+    },
+    {
+      "name": "Umapriya",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Google_Contacts_icon.svg",
+      "mobile": "94911128131",
+      "email": "lolithasri123@gmail.com",
+      "company": "home",
+      "title": "home maker ",
+      "groupId": "3",
+      "id": "5QXPU8B"
+    },
+    {
+      "name": "smith",
+      "imageUrl": "https://icon-library.com/images/contact-icon-png/contact-icon-png-5.jpg",
+      "mobile": "56567546545",
+      "email": "smith1245@gmail.com",
+      "company": "meta",
+      "title": "JR.DEVELOPER",
+      "groupId": "5",
+      "id": "qwM-gHL"
+    },
+    {
+      "name": "Supriya",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Google_Contacts_icon.svg",
+      "mobile": "9391118616",
+      "email": "supriya123@gmail.com",
+      "company": "home",
+      "title": "home maker ",
+      "groupId": "3",
+      "id": "_ZmOxxL"
+    },
+    {
+      "name": "Varalakshmi",
+      "imageUrl": "https://icons.iconarchive.com/icons/pelfusion/long-shadow-media/512/Contact-icon.png",
+      "mobile": "9440923232",
+      "email": "valralakshmi@gmail.com",
+      "company": "homemaker",
+      "title": "homemaker",
+      "groupId": "3",
+      "id": "S-jXxN9"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
